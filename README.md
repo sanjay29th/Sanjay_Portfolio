@@ -80,7 +80,7 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
-#
+
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/sanjay29th/Predictive-Maintenance-of-Aircraft-Engine)**
 
